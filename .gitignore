@@ -1,0 +1,5 @@
+# Exclude the result files generated
+results.*
+
+# Exclude the typical log file being parsed
+*.log
