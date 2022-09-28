@@ -119,7 +119,7 @@ def print_output(login_list, format):
 def main():
 
     logo_msg = ('\n VSFTPD Log Parser v' + __version__ +
-                '\n A tool for pulling login data from a VSFTPD log.')
+                '\n A tool for pulling authentication data from a VSFTPD log.')
 
     example_msg = ('example: ' +
                    '\n $ python vsftpd_parse.py --input vsftpd.log --output csv\n')

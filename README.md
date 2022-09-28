@@ -17,7 +17,6 @@ THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRA
 ```
 usage: vsftpd_parse.py [-h] [-i INPUT] [-o {csv,txt}]
 
-optional arguments:
   -h, --help            Show this message and exit
                         
   -i INPUT, --input INPUT
